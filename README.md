@@ -7,6 +7,7 @@ Over the course of refactoring the codes changes were made that include adding a
 
 
 ## Example snippit of the code after changes and link to the live site
-
+https://thecoaxial.github.io/01-HTML-CSS-Git-Code-Refactor-HW/
+![Code Snippit](Snippit.PNG)
 
 
